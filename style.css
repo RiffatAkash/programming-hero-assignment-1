@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.down{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.h1_customize{
+    font-size: 40px;
+    font-weight: 900;
+}
+h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+#demo_h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.color_orange{
+    color: orange;
+}
+.first_section{
+    margin-left: 10%;
+}
+.half_width{
+    width: 50%;
+    margin-top: 100px;
+}
+.half_width_img,.half_width_2{
+    width: 50%;
+}
+.half_width_img img {
+    width: 60%;
+}
+.half_width_coding{
+    width: 33%;
+}
+.half_width_coding img{
+    width: 100%;
+}
+.half_width_know{
+    width: 50%;
+}
+.red_border{
+    border-left:4px solid red;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+}
+.stay_focueed{
+    margin-left: 10px;
+}
+.half_width_developer{
+    margin-left: 8%;
+    width: 60%;
+}
+.ancor_tag{
+    border:1px solid;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.651);
+}
+.second_section h3{
+    text-align: center;
+}
+.third_section_first{
+    box-shadow: 10px -5px 10px white;
+    width: 30%;
+    padding: 2%;
+    border-radius: 10px;
+    margin: 0 1%;
+}
+.third_section_first img{
+    width: 100%;
+}
+.second_section_first img,.second_section_second img,.second_section_third img{
+    width: 50%;
+}
+.second_section_div{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.second_section_first,.second_section_second,.second_section_third{
+    box-shadow: 10px 10px 10px white;
+    width: 30%;
+    padding: 2%;
+    background-color: powderblue;
+    border-radius: 10px;
+    margin: 0 1%;
+}
+.second_section_second {
+    box-shadow: 10px 10px 10px white;
+    width: 30%;
+    padding: 2%;
+    background-color: thistle;
+    border-radius: 10px;
+    margin: 0 1%;
+}
+.second_section_third{
+    box-shadow: 10px 10px 10px white;
+    width: 30%;
+    padding: 2%;
+    background-color: tan;
+    border-radius: 10px;
+    margin: 0 1%;
+}
+footer{
+    background-color: black;
+    padding: 10px 0px;
+}
+#footer_h4,#footer_p{
+    text-align: center;
+    color: white;
+}
+.custom_margin_top{
+    margin-top: 40px;
+}
